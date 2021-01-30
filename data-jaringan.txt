@@ -1,0 +1,2 @@
+1. mikrotik => 20
+2. krimping => 3
